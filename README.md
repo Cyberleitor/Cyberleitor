@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Software development
-- 📫 How to reach me cyberleitor@gmail.com
+- 📫 How to reach me ednelsonjunior@proton.me
 
 <!---
 Cyberleitor/Cyberleitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
