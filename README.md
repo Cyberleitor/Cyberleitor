@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @Cyberleitor
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Software development
-- 📫 How to reach me ednelsonjunior@proton.me
+### Wake up! What is reality?
+
+"Is all that we see or seem / But a dream within a dream?"
+
+_Edgar Allan Poe_
+				
+#### A little about me...
+
+- 👋 Hi, I'm Ed or John Nada... What do you prefer to call me?
+- 👀 I’m interested in Hacking.
+- 💞️ I’m looking to collaborate on an Hacker Comunity.
+- 📫 How to reach me johnnothing@duck.com... Or follow the rabbit.
+
+![](john_nada.gif)
+
 
 <!---
 Cyberleitor/Cyberleitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
