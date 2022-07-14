@@ -11,7 +11,7 @@ _Edgar Allan Poe_
 - 💞️ I’m looking to collaborate on an Hacker Comunity.
 - 📫 How to reach me johnnothing@duck.com... Or follow the rabbit.
 
-![they_live](./they_live)
+![they_live](./they_live.gif)
 
 <!---
 Cyberleitor/Cyberleitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
