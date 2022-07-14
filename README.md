@@ -8,7 +8,6 @@ _Edgar Allan Poe_
 
 - 👋 Hi, I'm Ed or John Nada... What do you prefer to call me?
 - 👀 I’m interested in Hacking.
-- 💞️ I’m looking to collaborate on an Hacker Comunity.
 - 📫 How to reach me johnnothing@duck.com... Or follow the rabbit.
 
 <center><img src="./they_live.gif"></center>
