@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ed or John Nada... What do you prefer to call me?</h1>
 <h3 align="center">Wake up! What is reality?</h3>
 
-- 👀 I'm interested in **Python, Hacking and Bash**
+- 👀 I'm interested in **Python, Hacking and Bash**;
 
-- 👨‍💻 All of my projects are available at [in the repositories](in the repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/Cyberleitor?tab=repositories);
 
-- 📫 How to reach me **johnnothing@duck.com**
+- 📫 How to reach me **johnnothing@duck.com**;
 
-- ⚡ Fun fact **I love make jokes**
+- ⚡ Fun fact **I love make jokes**.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ednelson joão ramos e silva júnior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ednelson joão ramos e silva júnior" height="30" width="40" /></a>
 </p>
