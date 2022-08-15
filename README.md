@@ -11,7 +11,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="www.linkedin.com/in/ednelson-joao-ramos-e-silva-junior" target="blank" rel="noreferrer"><img src="./linked-in-alt.svg" alt="perfil do linkedin de ednelson" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ednelson-joao-ramos-e-silva-junior" target="_blank" rel="noreferrer"> <img src="./linked-in-alt.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
