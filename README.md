@@ -3,14 +3,11 @@
 
 - 👀 I'm interested in **Python, Hacking and Bash**;
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/Cyberleitor?tab=repositories);
+- 👨‍💻 All of my projects are available at **[repositories](https://github.com/Cyberleitor?tab=repositories)**;
 
-- 📫 How to reach me **johnnothing@duck.com**;
+- 📫 How to reach me **johnnothing@duck.com** or **[LinkedIn](https://www.linkedin.com/in/ednelson-joao-ramos-e-silva-junior/)**;
 
 - ⚡ Fun fact **I love make jokes**.
-
-<h3 align="center">Connect with me:</h3>
-<p align="center"><a href="www.linkedin.com/in/ednelson-joao-ramos-e-silva-junior" target="_blank" rel="noreferrer"> <img src="./linked-in-alt.svg" alt="linkedin" width="40" height="40"/> </a></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
