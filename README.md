@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ed or John Nada... What do you prefer to call me?</h1>
 <h3 align="center">Wake up! What is reality?</h3>
 
-- 👀 I'm interested in **Python, JavaScript, Hacking, Bash and Free software**;
+- 👀 I'm interested in **Python, Hacking, Bash and Free software**;
 
 - 👨‍💻 All of my projects are available at **[repositories](https://github.com/Cyberleitor?tab=repositories)**;
 
