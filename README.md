@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **[repositories](https://github.com/Cyberleitor?tab=repositories)**;
 
-- 📫 How to reach me? **johnnothing@duck.com** or **[LinkedIn](https://www.linkedin.com/in/ednelson-joao-ramos-e-silva-junior/)** or **[Notabug](https://notabug.org/johnnada)**;
+- 📫 How to reach me? **johnnothing@duck.com** or **[LinkedIn](https://www.linkedin.com/in/ednelson-joao-ramos-e-silva-junior/)**;
 
 - ⚡ Fun fact: **I love make jokes**.
 
